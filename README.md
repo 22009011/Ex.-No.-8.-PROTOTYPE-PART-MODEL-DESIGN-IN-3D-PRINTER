@@ -50,7 +50,7 @@
 
 ![image](https://github.com/22009011/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118343461/8005940f-2c52-4d00-ba6b-1ad91c1eb011)
 
-### Name:
+### Name: THANJIYAPPAN K
 ### Register Number:212222240108
 
 ## RESULT:
